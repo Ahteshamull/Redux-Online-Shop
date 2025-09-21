@@ -44,6 +44,7 @@ export default function Navbar() {
                     Cart
                   </span>
                 </div>
+                <button>Sign Up</button>
                 <Link
                   to={"/cart"}
                   className="max-lg:hidden px-5 py-2.5 text-sm font-medium rounded-full text-white bg-blue-600 hover:bg-blue-700 cursor-pointer"
